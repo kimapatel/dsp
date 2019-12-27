@@ -191,7 +191,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+> What changed? The second flag resulted in the letter 'B' being added at the end of each file size
 
 If instead copying we just want to change the name of a file, we can do:
 
