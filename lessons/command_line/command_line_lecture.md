@@ -144,7 +144,7 @@ This prints the data directly to stdout and we can see the whole dataset.
 Nice. 
 
 > Let's save the output of the `curl` command to a file called `data.txt`. How
-would we do that?
+would we do that? To save the output of the 'curl' command to a file called 'data.txt' I used the echo command followed by the curl command and assigned it to the data.txt file by using the greater than symbol. echo curl (link) > data.txt
 
 Now that we have the data file, let's learn how to manipulate files.
 
